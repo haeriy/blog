@@ -44,7 +44,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: '/blog'
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: America/New_York
+timezone: America/Boston
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
