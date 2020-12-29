@@ -127,7 +127,6 @@ defaults:
       breadcrumb:
         -
           label: Posts
-          url: /tabs/recents
   -
     scope:
       path: tags
