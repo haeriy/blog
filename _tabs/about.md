@@ -1,7 +1,7 @@
 ---
 title: about
 icon: fas fa-info
-order: 4
+order: 1
 
 # The about page
 # v2.0
@@ -12,3 +12,4 @@ order: 4
 
 
 > **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+
