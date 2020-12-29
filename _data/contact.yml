@@ -10,7 +10,6 @@
 -
   type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  'www.linkedin.com/in/haeri-yoon'                  # Fill with your Linkedin homepage
 -
   type: email
   icon: 'fas fa-envelope'
