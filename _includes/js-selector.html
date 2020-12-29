@@ -6,7 +6,7 @@
   MIT Licensed
 -->
 
-{% if page.layout == 'home' or page.layout == 'post' or page.layout == 'categories' %}
+{% if page.layout == 'home' or page.layout == 'recents' or page.layout == 'post' or page.layout == 'categories' %}
   {% assign js = page.layout %}
 {% else %}
   {% assign js = "page" %}
