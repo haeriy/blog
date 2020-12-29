@@ -1,4 +1,5 @@
 ---
+layout: page
 title: about
 icon: fas fa-info
 order: 1
