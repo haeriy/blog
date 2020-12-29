@@ -25,8 +25,8 @@ github:
   username: haeriy             # change to your github username
 
 social:
-  name: 'Haeri Yoon'                  # it will shows as the copyright owner in Footer
-  email: 'celenay16@protonmail.com'             # change to your email address
+  name: Haeri Yoon                  # it will shows as the copyright owner in Footer
+  email: celenay16@protonmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
@@ -74,7 +74,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode:   ''
+theme_mode:   
 
 # boolean type, the global switch for ToC in posts.
 toc: true
