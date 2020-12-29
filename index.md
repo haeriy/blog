@@ -9,7 +9,7 @@ title: About
 # MIT License
 ---
 
-### About 
+# About 
 
 ## Experience
 - Analog Devices, Inc (Feb, 2017 - Present)
