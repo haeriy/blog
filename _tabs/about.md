@@ -1,7 +1,7 @@
 ---
 title: about
 icon: fas fa-info
-order: 1
+order: 2
 
 # The about page
 # v2.0
