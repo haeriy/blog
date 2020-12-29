@@ -8,8 +8,9 @@
   type: github
   icon: 'fab fa-github-alt'
 -
-  type: linked-in
-  icon: 'fab fa-linkedin-square'
+  type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'www.linkedin.com/in/haeri-yoon'                  # Fill with your Linkedin homepage
 -
   type: email
   icon: 'fas fa-envelope'
@@ -24,10 +25,7 @@
 #   type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your mastodon account page
-# -
-#   type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
+
 # -
 #   type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
