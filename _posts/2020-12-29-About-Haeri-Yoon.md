@@ -1,9 +1,10 @@
 ---
-title: About
+title: About Haeri Yoon
 author: Haeri Yoon
 categories: [Misc]
 tags: []
 pin: true 
+image: /assets/img/sample/animal-crossing.jpg
 math: true
 ---
 
