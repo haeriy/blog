@@ -125,7 +125,7 @@ defaults:
       comments: false
   -
     scope:
-      path: recents
+      path: index.html
     values:
       breadcrumb:
         -
@@ -163,17 +163,7 @@ defaults:
         -
           label: Home
           url: /
-  -
-    scope:
-      path: index.html
-    values:
-      breadcrumb:
-        -
-          label: Home
-          url: /
-        -
-          label: Recents
-          url: /tabs/recents/
+
 
 sass:
   sass_dir: /assets/css
