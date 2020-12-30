@@ -1,7 +1,7 @@
 ---
 title: CV
 icon: fas fa-address-card
-order: 3 
+order: 1
 
 # The cv page
 # v2.0
