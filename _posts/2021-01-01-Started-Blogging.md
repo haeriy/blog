@@ -1,6 +1,6 @@
 ---
 title: Started Blogging 
-date: 2021-01-01 12:14:00 -0600
+date: 2021-01-01 12:24:00 -0500
 categories: [Misc]
 tags: 
 ---
