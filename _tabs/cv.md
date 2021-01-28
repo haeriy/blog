@@ -22,9 +22,9 @@ order: 1
   - Tested and analyzed the signal integrity and functionality of multi-core, multi-thread SPARC processor-based server systems from relatively simple backplanes to highly complicated mother boards (JTAG, I2C, NC-SI, etc)
 
 ## Education
-- University of California, Los Angeles - Pursuing Master's in Electrical Engineering (Expected June, 2021)
+- University of California, Los Angeles - Pursuing Master's in **Electrical Engineering** (Expected June, 2021)
   - **Courses** Digital Speech Processing, Information Teory, Communications Network, Machine Learning
-- Brown University - Bachelor's in Electrical Engineering (Graduated May, 2016)
+- Brown University - Bachelor's in **Electrical Engineering** (Graduated May, 2016)
   - **Courses** Computer Architecture, Mixed-Signal Electronic Design, Digital Systems Design
   - Tau Beta Pi 
   
